@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rballeba)](https://github.com/rballeba/github-profile-trophy)
+
 <!--
 **rballeba/rballeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
